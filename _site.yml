@@ -1,1 +1,9 @@
-
+name: "Tiansheng Jin's Final-project Website"
+navbar:
+  title: "Final-project V1"
+  left:
+    - text: "Home"
+      href: index.html
+output:
+  html_document:
+    theme: cerulean
