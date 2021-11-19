@@ -1,4 +1,5 @@
 name: "Tiansheng Jin's Final-project Website"
+output_dir: "."
 navbar:
   title: "Final-project V1"
   left:
